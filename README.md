@@ -25,17 +25,33 @@ from collections import Iterable
 
 *Our Data Analysis shows that the percent change of returns of the two assets'price action do not mimic one another and the correlation coefficient of 0.099 shows an insignificant relationship between the two assets.
 
+![BitcoinVsGold](BitcoinGold.jpg)
 
 Graph picture
 
 **2. How does bitcoin perform during inflation or deflation? CPI Index monthly return % change vs Bitcoin monthly return % change.
 
-In this Data Analysis as well, correlation coefficient of 0.099 shows an insignificant relationship between the two assets.
+*In this Data Analysis as well, correlation coefficient of 0.099 shows an insignificant relationship between the two assets.
 
 
 Graph picture
 
-**3. 
+**3. How does a new asset/asset class stack up against traditional markets? Are there any relationships? (Bitcoin compared to Market Indices)
+
+*In this Data Analysis, 
+
+Graph Picture
+
+**4. What is Bitcoin’s growth prospect? And is it a viable investment? 
+
+*Bitcoin’s growth prospect would need to be gauged against a regulated growth ETF to prove its viability as an investment. Our Data Analysis shows that its distribution is spread much wider than iShares ETF indicating the significant risk involved in Bitcoin given its growth.
+
+**5. What is Bitcoin's comparison with traditional asset classes based on their returns, volatility, and volume in the the past 5 years? (Bitcoin vs Other Traditional Assets and Indices)
+
+*
+
+Graph Picture
+
 
 
 
