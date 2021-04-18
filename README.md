@@ -6,18 +6,7 @@ In this project, we compared Bitcoin's price growth to other commodities/asset c
 
 ### *Import requests*
 
-from io import StringIO
-import csv
-import pandas as pd
-import numpy as np
-import hvplot.pandas
-import matplotlib.pyplot as plt
-from pathlib import Path
-from datetime import datetime
-import plotly.express as px
-import plotly.graph_objects as go
-import seaborn as sns
-from collections import Iterable
+<img width="324" alt="Screen Shot 2021-04-17 at 20 39 49" src="https://user-images.githubusercontent.com/78338890/115130350-31ea3500-9fbd-11eb-93e1-ce71d7a2623f.png">
 
 ### *FAQs*
 
