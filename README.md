@@ -19,7 +19,7 @@ import plotly.graph_objects as go
 import seaborn as sns
 from collections import Iterable
 
-### FAQs
+### *FAQs*
 
 **1. Can Bitcoin be described as Digital Gold?**
 
@@ -28,31 +28,32 @@ from collections import Iterable
 <img width="598" alt="BitcoinGold" src="https://user-images.githubusercontent.com/78338890/115130202-85f41a00-9fbb-11eb-9c40-fc2ba8b5585a.png">
 
 
-Graph picture
-
 **2. How does bitcoin perform during inflation or deflation? CPI Index monthly return % change vs Bitcoin monthly return % change.
 
 *In this Data Analysis as well, correlation coefficient of 0.099 shows an insignificant relationship between the two assets.
 
+<img width="589" alt="Bitcoin vs CPI" src="https://user-images.githubusercontent.com/78338890/115130277-7aedb980-9fbc-11eb-9cd3-9b0d37920855.png">
 
-Graph picture
 
 **3. How does a new asset/asset class stack up against traditional markets? Are there any relationships? (Bitcoin compared to Market Indices)
 
 *In this Data Analysis, 
 
-Graph Picture
+<img width="1130" alt="Market indices vs Bitcoin" src="https://user-images.githubusercontent.com/78338890/115130281-87721200-9fbc-11eb-9a31-2e758be8913d.png">
+
 
 **4. What is Bitcoin’s growth prospect? And is it a viable investment? 
 
 *Bitcoin’s growth prospect would need to be gauged against a regulated growth ETF to prove its viability as an investment. Our Data Analysis shows that its distribution is spread much wider than iShares ETF indicating the significant risk involved in Bitcoin given its growth.
 
+<img width="1163" alt="ishares vs bitcoin" src="https://user-images.githubusercontent.com/78338890/115130293-9e186900-9fbc-11eb-8abc-3f6fb7d374af.png">
+
+
 **5. What is Bitcoin's comparison with traditional asset classes based on their returns, volatility, and volume in the the past 5 years? (Bitcoin vs Other Traditional Assets and Indices)
 
 *
 
-Graph Picture
-
+<img width="1086" alt="Bubble chart" src="https://user-images.githubusercontent.com/78338890/115130295-a83a6780-9fbc-11eb-99cd-c63ee7cd7fb0.png">
 
 
 
