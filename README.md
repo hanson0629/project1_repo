@@ -25,7 +25,8 @@ from collections import Iterable
 
 *Our Data Analysis shows that the percent change of returns of the two assets'price action do not mimic one another and the correlation coefficient of 0.099 shows an insignificant relationship between the two assets.
 
-![BitcoinVsGold](BitcoinGold.jpg)
+![BitcoinVsGold](<img width="598" alt="BitcoinGold" src="https://user-images.githubusercontent.com/78338890/115130202-85f41a00-9fbb-11eb-9c40-fc2ba8b5585a.png">
+)
 
 Graph picture
 
