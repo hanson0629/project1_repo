@@ -50,9 +50,9 @@ Bitcoin can be seen as an outlier based on the bubble chart with 5yr avg return 
 
 ### *SOURCES*
 
-Import method refrenced from: https://github.com/israel-dryer/Yahoo-Finance-Scraper/blob/master/yahoo-finance-tut.ipynb
-CPI data extracted from: https://www150.statcan.gc.ca/n1/pub/71-607-x/2018016/cpilg-ipcgl-eng.htm
-All the remaining datasets extracted from: https://ca.finance.yahoo.com 
+* Import method refrenced from: https://github.com/israel-dryer/Yahoo-Finance-Scraper/blob/master/yahoo-finance-tut.ipynb
+* CPI data extracted from: https://www150.statcan.gc.ca/n1/pub/71-607-x/2018016/cpilg-ipcgl-eng.htm
+* All the remaining datasets extracted from: https://ca.finance.yahoo.com 
 
 
 
